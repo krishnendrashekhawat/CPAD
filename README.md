@@ -11,6 +11,5 @@ By making small changes in the input.txt file, about 4 million different plus sh
 The following libraries are required to run the code.
 Jama
 jgrapht
-controlP5
 gicentreUtils
 
